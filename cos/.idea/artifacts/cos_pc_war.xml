@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="cos-pc:war">
+    <output-path>$PROJECT_DIR$/../cos-pc/target</output-path>
+    <root id="archive" name="cos-pc.war">
+      <element id="artifact" artifact-name="cos-pc:war exploded" />
+    </root>
+  </artifact>
+</component>

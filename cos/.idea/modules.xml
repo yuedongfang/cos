@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../cos-aop/cos-aop.iml" filepath="$PROJECT_DIR$/../cos-aop/cos-aop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../cos-base/cos-base.iml" filepath="$PROJECT_DIR$/../cos-base/cos-base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../cos-common/cos-common.iml" filepath="$PROJECT_DIR$/../cos-common/cos-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cos-parent.iml" filepath="$PROJECT_DIR$/cos-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../cos-pc/cos-pc.iml" filepath="$PROJECT_DIR$/../cos-pc/cos-pc.iml" />
+    </modules>
+  </component>
+</project>
