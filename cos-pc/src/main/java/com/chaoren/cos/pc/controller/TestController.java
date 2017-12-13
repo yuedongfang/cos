@@ -64,7 +64,7 @@ public class TestController{
         }
         try {
             user.login(token);
-            System.out.println("登陆成功！");
+            System.out.println("登陆成功！1");
         } catch (RuntimeException e) {
             System.out.println(e.getClass().getName());
             errMsg = getExMessage(e.getClass().getName());
